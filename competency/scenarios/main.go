@@ -1,5 +1,6 @@
 package scenarios
 
+//this is the merge conflict branch
 import "fmt"
 
 func f1(flavor string) string {
