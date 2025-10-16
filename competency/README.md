@@ -1,0 +1,1 @@
+This is a git recovery portfolio that illustrates the correct ways to deal with problems that happen with git. This portfolio contains scenarios with respective solution documents.
