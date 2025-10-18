@@ -1,6 +1,7 @@
 package scenarios
 
-//this is the Rebase Conflict branch
+//this is the Rebase Conflict branch 2
+//changing the F3 return string
 import "fmt"
 
 func f1(flavor string) string {
@@ -12,7 +13,7 @@ func f2(flavor string) string {
 }
 
 func f3(flavor string) string {
-	return "I am allergic the flavor of " + flavor
+	return "I despise the flavor of " + flavor
 }
 
 func main() {
