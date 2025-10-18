@@ -1,6 +1,8 @@
 package scenarios
 
 //this is the main branch
+//this branch contains the basic functionality of the program that will be added onto
+//in further branches and potentially merged into this branch.
 import "fmt"
 
 func f1(flavor string) string {
