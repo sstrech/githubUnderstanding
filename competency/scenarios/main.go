@@ -13,7 +13,7 @@ func f2(flavor string) string {
 }
 
 func f3(flavor string) string {
-	return "I despise the flavor of " + flavor
+	return "I seriously dislike and hate the flavor of " + flavor
 }
 
 func main() {
